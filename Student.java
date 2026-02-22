@@ -28,3 +28,5 @@ public class Student {
     public String getGender() {return gender}
     public String getMajorSubject() {return majorSubject}
 }
+
+// atilano's part
